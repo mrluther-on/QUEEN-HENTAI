@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '📮 ___𝐋 𝐔 𝚻 𝚮 𝚵 𝚪 ___ 💌'
 global.premium = 'true'
-global.packname = '🎋💔𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈𝐌  ＳＵＢＡＲＵ🌷(๑˃𝐀𝐒𝐈𝐀𝐒 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𝐂𝐑𝐄𝐀𝐓𝐎𝐑🍂™ 🕊+919614477116_ (ｉｎｓｔａ - lexx_lutheer_) 𝙎𝙐𝘽𝘼𝙍𝙐 𝙄𝙎 𝙔𝙊𝙐𝙍 𝙇𝘼𝙎𝙏 𝙊𝙋𝙏𝙄𝙊𝙉ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ' 
-global.author = '🔰ＳＵＢＡＲＵ💌' 
+global.packname = '🎋💔𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈𝐌ＳＵＢＡＲＵ🌷๑˃𝐀𝐒𝐈𝐀𝐒 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𝐂𝐑𝐄𝐀𝐓𝐎𝐑🍂ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ' 
+global.author = '🕊+919614477116_ (ｉｎｓｔａ - lexx_lutheer_)' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
 global.dygp = 'https://chat.whatsapp.com/KS5O3xRzVha6uJ8HFW8uWN'
 global.fgsc = 'https://github.com/mrluther-on' 
